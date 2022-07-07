@@ -24,7 +24,7 @@ docker-compose up --build -d
 docker exec -it postgres bash
 ```
 
-then connet the database:
+then conneсt the database:
 
 ```
 psql -U admin -d [database]
