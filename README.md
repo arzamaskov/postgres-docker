@@ -16,7 +16,7 @@ git clone git@github.com:arzamaskov/postgres-docker.git
 docker-compose up --build -d
 ```
 
-3. Postgres database will be available through the [adminer](https://www.adminer.org/) by [localhost:8080](localhost:8080)
+3. Postgres database will be available through the [adminer](https://www.adminer.org/) by [localhost:8080](http://localhost:8080)
 
 4. Postgres database also will by available through the console. For that it needs to connect the docker container followed command:
 
