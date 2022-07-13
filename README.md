@@ -2,10 +2,16 @@
 
 ## Instruction
 
-1. Clone this repository into your desired destination:
+Clone this repository into your desired destination:
 
 ```bash
 git clone git@github.com:arzamaskov/postgres-docker.git
+```
+
+then go to cloned directory:
+
+```bash
+cd postgres-docker
 ```
 
 Building:
