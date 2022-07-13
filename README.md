@@ -8,7 +8,7 @@ Clone this repository into your desired destination:
 git clone git@github.com:arzamaskov/postgres-docker.git
 ```
 
-then go to cloned directory:
+then go to the cloned directory:
 
 ```bash
 cd postgres-docker
