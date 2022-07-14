@@ -1,6 +1,8 @@
 # Postgres database docker enviroment
 
-## Instruction
+This is a simple docker configuration to use PostgresSQL database system.
+
+## Usage
 
 Clone this repository into your desired destination:
 
@@ -26,7 +28,7 @@ Serving:
 make serve
 ```
 
-Postgres database will be available through the [adminer](https://www.adminer.org/) by [localhost:8080](http://localhost:8080)
+Postgres database will be available through the [adminer](https://www.adminer.org/) by [localhost:8080](http://localhost:8080).
 
 Postgres database also will by available through the console. For that it needs to connect the docker container followed command:
 
